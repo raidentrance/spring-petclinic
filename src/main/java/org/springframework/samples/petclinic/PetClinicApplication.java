@@ -37,6 +37,6 @@ public class PetClinicApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args)  {
-		System.out.println("Helllo devs4j !!");
+		System.out.println("Hello devs4j !!");
 	}
 }
